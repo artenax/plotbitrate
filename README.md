@@ -3,6 +3,8 @@ PlotBitrate
 
 FFProbe Bitrate Graph
 
+![bitrate](https://github.com/artenax/plotbitrate/assets/107228652/61f56018-8595-42b2-aa52-404a39494059)
+
 This project contains a script for plotting the bitrate of an audio or video
 stream over time. To get the frame bitrate data ffprobe is used from the ffmpeg
 package. The ffprobe data is streamed to python as xml frame metadata and
